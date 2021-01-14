@@ -4,7 +4,6 @@ The Ridge Seminar Series will target a global audience interested in all aspects
 The seminars will take place bi-weekly, starting January 12th 2021, and will be recorded and made available on-line (details on access to video records will be provided in the “Past seminars’ page). Time will vary to allow seminars that are compatible with schedules in both EU-USA and EU-Asia.
 
 This Seminar Series is collegially animated and managed by:
-
 Christoph BEIER (U. Helsinki, Finland)
 J. P. CANALES (Woods Hole Oceanographic Institution, USA)
 Ana COLAÇO (university of Azores, Portugal)
