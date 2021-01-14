@@ -10,6 +10,7 @@ For more details of the seminar, please refer to https://ridgeseminarseries.word
 
 ## Agenda
 **Talk 1: “The importance of (long) temporal series to unravel the source control on the thickness and composition of the oceanic crust”**    
-*Time: 2021/01/12
-*Speaker: Prof. Daniele Brunelli (Univ. of Modena, Italy)  
-**Abstract
+*Time: 2021/01/12*  
+*Speaker: Prof. Daniele Brunelli (Univ. of Modena, Italy)*  
+
+**Abstract**
