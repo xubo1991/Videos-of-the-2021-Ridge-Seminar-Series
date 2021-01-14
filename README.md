@@ -10,7 +10,7 @@ For more details of the seminar, please refer to https://ridgeseminarseries.word
 ```However, the video records are posted on a Youtube channel at present, which is not accessible in many countries. Thus, I upload these videos to Baidu netdisk, and share the download links below. If you are interested in these talks, please feel free to download.```
 
 ## Agenda
-2021/01/12 
-Prof. Daniele Brunelli (Univ. of Modena, Italy)
+2021/01/12  
+Prof. Daniele Brunelli (Univ. of Modena, Italy)  
 “The importance of (long) temporal series to unravel the source control on the thickness and composition of the oceanic crust”
 
