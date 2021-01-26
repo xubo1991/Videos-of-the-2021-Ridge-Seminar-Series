@@ -25,8 +25,8 @@ The oceanic crust is continuously renewed by melt accumulation and extensive tec
 *Time: 2021/01/26*  
 *Speaker: Nick Harmon (Univ. of Southampton, UK)*  
 
-**Baidu netdisk download links: ......**  
-**Pwd: ......**  
+**Baidu netdisk download links: https://pan.baidu.com/s/1dn6iEYvt8EZjmXaVZw5SaQ**  
+**Pwd: vi8c**  
 
 **Abstract**   
 In plate tectonic theory a weak asthenosphere is required to facilitate the motions of the rigid plates. Partial melt could weaken the mantle, in turn impacting convection, but to date the existence of persistent melt has remained controversial. A wide range of scenarios have been reported in terms of the location, amount and pathways of melt. We use a combination of seismic and magnetotelluric (MT) data, with a range of resolutions and sensitivities, to image 0 – 80 Myr old lithosphere and the underlying asthenosphere near the equatorial Mid-Atlantic Ridge. We image a tectonic plate thickness that increases with age in one location but undulates in another location. We image thin and slightly thicker melt channels and punctuated regions of ascending partial melt several hundred kilometres off the ridge axis. This suggests melt persists over geologic timescales, although its character is dynamic, with implications for the lithosphere-asthenosphere boundary (LAB) and the driving forces of the plates. Ascending melt intermittently feeds melt channels at the base of the plate. The associated melt-enhanced buoyancy increases the influence of ridge-push in driving plate motions; whereas, the channelized melt reduces the resistance of the plates to motion. This suggests melt dynamics plays a larger role in controlling plate tectonics than previously thought.
