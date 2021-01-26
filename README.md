@@ -9,7 +9,7 @@ For more details of the seminar, please refer to https://ridgeseminarseries.word
 ```I upload these videos to Baidu netdisk, and share the download links below. If you are interested in these talks, please feel free to download.```
 
 ## Agenda
-### Talk 1: “The importance of (long) temporal series to unravel the source control on the thickness and composition of the oceanic crust”**    
+### Talk 1: “The importance of (long) temporal series to unravel the source control on the thickness and composition of the oceanic crust”    
 *Time: 2021/01/12*  
 *Speaker: Prof. Daniele Brunelli (Univ. of Modena, Italy)*  
 
@@ -21,7 +21,7 @@ The oceanic crust is continuously renewed by melt accumulation and extensive tec
 
 ![image](https://github.com/xubo1991/Videos-of-the-2021-Ridge-Seminar-Series/blob/main/Figures/1.png)
 
-### Talk 2: “A dynamic lithosphere-asthenosphere boundary dictated by variations in melt generation and migration: Insights from the PI-LAB experiment at the Equatorial Mid-Atlantic Ridge”**    
+### Talk 2: “A dynamic lithosphere-asthenosphere boundary dictated by variations in melt generation and migration: Insights from the PI-LAB experiment at the Equatorial Mid-Atlantic Ridge”   
 *Time: 2021/01/26*  
 *Speaker: Nick Harmon (Univ. of Southampton, UK)*  
 
